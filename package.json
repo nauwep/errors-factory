@@ -1,6 +1,6 @@
 {
     "name": "errors-factory",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Define your errors in a dedicated file, then use them by their code",
     "keywords": [
         "error",
