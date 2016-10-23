@@ -1,0 +1,7 @@
+[{
+    "code": "ERR_APP_001",
+    "message": "The argument must be an Array"
+}, {
+    "code": "ERR_APP_002",
+    "message": "Something is wrong"
+}]
